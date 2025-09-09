@@ -27,4 +27,4 @@ What I changed before committing:
   line=data.read()
   for word in line.split():
 
-A lot of the code was autofilled from the gemini that is embedded. I did ask for a specific prompt or change anything other than the name of a file or dataset. It also caught several syntax mistakes and instructed me on how to fix them. 
+A lot of the code was autofilled from the gemini that is embedded. I didn't ask for a specific prompt or change anything other than the name of a file or dataset. It also caught several syntax mistakes and instructed me on how to fix them. 
